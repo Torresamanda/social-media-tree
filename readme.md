@@ -1,4 +1,4 @@
-# Rede Social
+# Árvore de Redes Sociais
 
 <p>
     Nesse projeto coloquei os meus conhecimentos de HTML & CSS para cumprir o desafio da <a href="https://www.rocketseat.com.br/">rocketseat</a> a plataforma deles tem vários desafios que pretendo cumprir, de longe foi umas das melhores plataformas de programação que já encontrei. 
